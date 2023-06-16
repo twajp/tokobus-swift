@@ -1,9 +1,9 @@
 # TokoBus (Swift版)
 
-> [!Warning]
+> [!IMPORTANT]
 >
 > このアプリはFlutterでの開発に移行しました。  
-> Flutter版: [https://github.com/twajp/TokoBus](https://github.com/twajp/TokoBus)
+> Flutter版: [https://github.com/twajp/tokobus](https://github.com/twajp/tokobus)
 
 ## 概要
 早稲田大学所沢キャンパスのスクールバス時刻表アプリです。  
